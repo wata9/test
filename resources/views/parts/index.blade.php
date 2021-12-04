@@ -144,7 +144,7 @@
                 @endforeach
             </table>
             @else
-            <p>見つかりませんでした。</p>
+            <p>見つかりませんでした</p>
         </div>
         @endif
     </div>
